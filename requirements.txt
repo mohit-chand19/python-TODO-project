@@ -1,0 +1,3 @@
+# pip install -r requirement.txt
+
+Django==5.1
